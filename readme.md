@@ -20,6 +20,7 @@
 * [Constructors](CSharp7Console/103Constructors.cs)
 
 ## Useful articles
+*  **Microsoft annoucment of whats in C# 7 [https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/](https://blogs.msdn.microsoft.com/dotnet/2017/03/09/new-features-in-c-7-0/)**
 *  [Build Rosyln on VS2015](http://www.c-sharpcorner.com/article/how-to-compile-test-C-Sharp-7-features/)
 *  [Mad's channel 9 video](https://channel9.msdn.com/Events/Connect/2016/105)
 *  [Mad's accompanying blog post](https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/)
